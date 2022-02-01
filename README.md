@@ -6,7 +6,6 @@
 My react project:
 1. https://financerockie.herokuapp.com/
 2. https://rockie-stockalertclient.herokuapp.com/ / https://trusting-austin-bb7eb7.netlify.app/
-3. https://nextgame-rockie2695.vercel.app/
 <!---
 rockie2695/rockie2695 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
