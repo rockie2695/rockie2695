@@ -3,7 +3,7 @@
 - 📫 How to reach me: rockie2695@yahoo.com.hk / rockie2695@gmail.com
 
 My react project:
-1. https://financerockie.herokuapp.com/
+1. https://finance-nu-flame.vercel.app/
 2. https://rockie-stockalertclient.herokuapp.com/ / https://trusting-austin-bb7eb7.netlify.app/
 3. https://react-war-seven.vercel.app/playground
 <!---
