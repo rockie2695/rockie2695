@@ -23,4 +23,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rockie2695&layout=compact)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rockie2695)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rockie2695&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
