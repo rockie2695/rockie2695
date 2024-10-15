@@ -3,14 +3,19 @@
 - 📫 How to reach me: rockie2695@yahoo.com.hk / rockie2695@gmail.com
 
 My react project:
-1. https://newsdata-two.vercel.app/
-2. https://test-twitter-next.vercel.app/
-3. https://react-war-seven.vercel.app/playground
-4. https://trusting-austin-bb7eb7.netlify.app/
-5. https://finance-nu-flame.vercel.app/
-
-Making:
 1. https://langchainjs-ten.vercel.app/
+2. https://newsdata-two.vercel.app/
+3. https://test-twitter-next.vercel.app/
+4. https://react-war-seven.vercel.app/playground
+5. https://trusting-austin-bb7eb7.netlify.app/
+6. https://finance-nu-flame.vercel.app/
+
+Plan to Try:
+1. opensearch
+2. gcp
+3. react-native and expo
+4. deno, prisma
+5. godot
 
 <!---
 rockie2695/rockie2695 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
