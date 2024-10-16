@@ -13,9 +13,10 @@ My react project:
 Plan to Try:
 1. opensearch
 2. gcp
-3. react-native and expo
-4. deno, prisma
-5. godot
+3. yolo
+4. react-native and expo
+5. deno, prisma
+6. godot
 
 <!---
 rockie2695/rockie2695 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
