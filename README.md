@@ -15,8 +15,9 @@ Plan to Try:
 2. gcp
 3. yolo
 4. react-native and expo
-5. deno, prisma
-6. godot
+5. docker
+6. deno, prisma
+7. godot
 
 <!---
 rockie2695/rockie2695 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
