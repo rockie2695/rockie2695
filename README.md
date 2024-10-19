@@ -11,13 +11,12 @@ My react project:
 6. https://finance-nu-flame.vercel.app/
 
 Plan to Try:
-1. opensearch
-2. gcp
-3. yolo
-4. react-native and expo
-5. docker
-6. deno, prisma
-7. godot
+1. gcp
+2. yolo
+3. react-native and expo
+4. docker
+5. deno, prisma
+6. godot
 
 <!---
 rockie2695/rockie2695 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
