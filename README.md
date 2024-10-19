@@ -11,7 +11,7 @@ My react project:
 6. https://finance-nu-flame.vercel.app/
 
 Plan to Try:
-1. gcp
+1. gcp notification
 2. yolo
 3. react-native and expo
 4. docker
