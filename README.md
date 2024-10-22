@@ -18,6 +18,7 @@ Plan to Try:
 5. deno, prisma
 6. godot
 7. electron
+8. graphql
 
 <!---
 rockie2695/rockie2695 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
