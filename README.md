@@ -12,14 +12,15 @@ My react project:
 7. https://finance-nu-flame.vercel.app/
 
 Plan to Try:
-1. gcp notification
-2. yolo
+1. yolo
+2. zod
 3. react-native and expo
 4. docker
 5. deno, prisma
 6. godot
 7. electron
 8. graphql
+9. vue
 
 <!---
 rockie2695/rockie2695 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
