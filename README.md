@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rockie2695, can call me Aidan
+- 👋 Hi, I’m @rockie2695, call me Aidan
 - 👀 I’m interested in js (node.js and react)
 - 📫 How to reach me: rockie2695@yahoo.com.hk / rockie2695@gmail.com
 
