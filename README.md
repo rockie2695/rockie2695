@@ -12,10 +12,10 @@ My react project:
 7. https://finance-nu-flame.vercel.app/
 
 Plan to Try:
-1. yolo
+1. python yolo
 2. zod
 3. react-native and expo
-4. docker
+4. docker and k8s
 5. deno, prisma
 6. godot
 7. electron
