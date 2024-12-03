@@ -19,7 +19,7 @@ Plan to Try:
 5. deno, prisma
 6. godot
 7. electron
-8. graphql
+8. graphql,trpc
 9. vue
 10. comfyui
 11. rabbitmq
