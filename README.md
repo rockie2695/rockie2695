@@ -16,7 +16,7 @@ Plan to Try:
 2. zod
 3. react-native and expo
 4. docker and k8s
-5. deno, prisma
+5. deno, prisma, nestjs
 6. godot
 7. electron
 8. graphql,trpc
