@@ -18,7 +18,7 @@ Plan to Try:
 4. docker and k8s
 5. deno, prisma, nestjs
 6. godot
-7. electron
+7. electron / Tauri
 8. graphql,trpc
 9. vue
 10. comfyui
