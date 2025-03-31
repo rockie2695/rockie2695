@@ -23,6 +23,7 @@ Plan to Try:
 9. vue
 10. comfyui
 11. rabbitmq
+12. self host n8n
 
 <!---
 rockie2695/rockie2695 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
