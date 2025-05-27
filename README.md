@@ -15,15 +15,16 @@ Plan to Try:
 1. python yolo
 2. zod
 3. react-native and expo
-4. docker and k8s
-5. deno, prisma, nestjs
-6. godot
-7. electron / Tauri
-8. graphql,trpc/grpc
-9. vue
-10. comfyui
-11. rabbitmq
-12. self host n8n
+4. v0 / Google AI Studio / 
+5. docker and k8s
+6. deno, prisma, nestjs
+7. godot
+8. electron / Tauri
+9. graphql,trpc/grpc
+10. vue
+11. comfyui
+12. rabbitmq
+13. self host n8n
 
 <!---
 rockie2695/rockie2695 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
