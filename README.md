@@ -15,7 +15,7 @@ Plan to Try:
 1. python yolo
 2. zod
 3. react-native and expo
-4. v0 / Google AI Studio / 
+4. v0 / Google AI Studio / Firebase studio
 5. docker and k8s
 6. deno, prisma, nestjs
 7. godot
