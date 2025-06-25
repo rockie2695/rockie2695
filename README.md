@@ -4,7 +4,7 @@
 
 My react project:
 1. https://langchainjs-ten.vercel.app/
-2. https://newsdata-two.vercel.app/
+2. https://newsdata-two.vercel.app/ or react native android: https://drive.google.com/file/d/1px5ujcnF5KsG5sTbTvkA6bhFjrqXuDB6/view 
 3. https://qrcode-frontend-smoky.vercel.app
 4. https://test-twitter-next.vercel.app/
 5. https://react-war-seven.vercel.app/playground
