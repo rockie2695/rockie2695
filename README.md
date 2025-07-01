@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rockie2695, call me Aidan
-- 👀 I’m interested in js (node.js and react)
+- 👀 I’m interested in js/ts
 - 📫 How to reach me: rockie2695@yahoo.com.hk / rockie2695@gmail.com
 
 My react project:
