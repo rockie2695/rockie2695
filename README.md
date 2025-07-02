@@ -14,7 +14,7 @@ My react project:
 Plan to Try:
 1. python yolo
 2. zod
-3. <del>react-native and expo</del>
+3. three.js
 4. v0 / Google AI Studio / Firebase studio
 5. docker and k8s
 6. deno, prisma, nestjs
