@@ -34,3 +34,7 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rockie2695&layout=compact)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rockie2695&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://wakatime.com/share/@rockie2695/9e829c79-4119-4691-84b5-630c50de30b7.svg" width = 50%>
+
+<img src="https://wakatime.com/share/@rockie2695/50884605-8162-4018-b633-7c933a2d12f4.svg" width = 50%>
