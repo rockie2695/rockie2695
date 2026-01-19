@@ -4,13 +4,17 @@
 
 My react project:
 1. https://v0-chinese-to-cantonese-translator-indol.vercel.app/
-1. https://langchainjs-ten.vercel.app/
-2. https://newsdata-two.vercel.app/ or react native android: https://drive.google.com/file/d/1px5ujcnF5KsG5sTbTvkA6bhFjrqXuDB6/view 
-3. https://qrcode-frontend-smoky.vercel.app
-4. https://test-twitter-next.vercel.app/
-5. https://react-war-seven.vercel.app/playground
-6. https://trusting-austin-bb7eb7.netlify.app/
-7. https://finance-nu-flame.vercel.app/
+2. https://langchainjs-ten.vercel.app/
+3. https://newsdata-two.vercel.app/
+4. https://qrcode-frontend-smoky.vercel.app
+5. https://test-twitter-next.vercel.app/
+6. https://react-war-seven.vercel.app/playground
+7. https://trusting-austin-bb7eb7.netlify.app/
+8. https://finance-nu-flame.vercel.app/
+
+My react native android project(preview):
+1. Fresh (Food Label) Track: https://drive.google.com/file/d/1PxM92Kp6DnBgldw9mHJb0EpD2frTpDUa/view
+2. newsdata: https://drive.google.com/file/d/1px5ujcnF5KsG5sTbTvkA6bhFjrqXuDB6/view
 
 Plan to Try:
 1. python yolo
