@@ -8,7 +8,7 @@ My react project:
 3. https://newsdata-two.vercel.app/
 4. https://qrcode-frontend-smoky.vercel.app
 5. https://test-twitter-next.vercel.app/
-6. [https://react-war-seven.vercel.app/playground](https://react-war.vercel.app/playground)
+6. https://react-war.vercel.app/playground
 7. https://trusting-austin-bb7eb7.netlify.app/
 8. https://finance-nu-flame.vercel.app/
 
