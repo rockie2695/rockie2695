@@ -3,7 +3,7 @@
 - 📫 How to reach me: rockie2695@yahoo.com.hk / rockie2695@gmail.com
 
 My react project:
-1. https://v0-chinese-to-cantonese-translator-indol.vercel.app/
+1. https://translator-app-three-eta.vercel.app/
 2. https://langchainjs-ten.vercel.app/
 3. https://newsdata-two.vercel.app/
 4. https://qrcode-frontend-smoky.vercel.app
