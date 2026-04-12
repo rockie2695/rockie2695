@@ -5,7 +5,7 @@
 My react project:
 1. https://translator-app-three-eta.vercel.app/
 2. https://langchainjs-eight.vercel.app/
-3. https://newsdata-two.vercel.app/
+3. https://newsdata-roan.vercel.app/
 4. https://qrcode-frontend-smoky.vercel.app
 5. https://test-twitter-next.vercel.app/
 6. https://react-war.vercel.app/playground
