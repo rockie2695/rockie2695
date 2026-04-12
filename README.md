@@ -10,7 +10,7 @@ My react project:
 5. https://test-twitter-next.vercel.app/
 6. https://react-war.vercel.app/playground
 7. https://trusting-austin-bb7eb7.netlify.app/
-8. https://finance-nu-flame.vercel.app/
+8. https://finance-one-liart.vercel.app/
 
 My react native android project(preview):
 1. Fresh (Food Label) Track: https://drive.google.com/file/d/1PxM92Kp6DnBgldw9mHJb0EpD2frTpDUa/view
