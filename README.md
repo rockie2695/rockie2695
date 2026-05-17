@@ -14,7 +14,7 @@ My react project:
 
 My react native android project(preview):
 1. Fresh (Food Label) Track: https://drive.google.com/file/d/1PxM92Kp6DnBgldw9mHJb0EpD2frTpDUa/view
-2. newsdata: https://drive.google.com/file/d/1px5ujcnF5KsG5sTbTvkA6bhFjrqXuDB6/view
+2. newsdata: https://drive.google.com/file/d/1P5UtQvtE25UyfJAJJ1iXNIUEydJNgOSp/view?usp=drive_link
 
 Plan to Try:
 1. python yolo
